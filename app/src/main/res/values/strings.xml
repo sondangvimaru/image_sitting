@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Stitcher</string>
+    <string name="stitch_mode_scans">Scans</string>
+    <string name="stitch_mode_panorama">Panorama</string>
+    <string name="pick_images_button">Chọn Ảnh</string>
+    <string name="processing_images">Đang nối ảnh</string>
+</resources>
